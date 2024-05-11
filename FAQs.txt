@@ -1,0 +1,39 @@
+General Support:
+
+	How can I place an order?
+	What payment methods do you accept?
+	Can you help me track my order?
+	How do I return or exchange a product?
+	Is there a customer service contact number I can reach?
+
+Frequently Asked Questions:
+	What are your shipping policies?
+	Do you offer discounts or promotions?
+	Can I cancel my order after it's been placed?
+	Are there any warranty or guarantee policies?
+	What are your store hours or operating times?
+
+
+5. **Shipping and Delivery**:
+   - How long does shipping take?
+   - Do you offer international shipping?
+   - Can I track my package?
+   - What should I do if my package is lost or delayed?
+
+6. **Payment and Billing**:
+   - Are my payment details secure?
+   - Can I update my billing information?
+   - Do you offer installment payment options?
+   - What currency do you accept?
+
+7. **Returns and Refunds**:
+   - What is your return policy?
+   - How long does it take to process a refund?
+   - Do I need a return label for my return?
+   - Can I return a sale item?
+
+8. **Product Availability and Inventory**:
+   - Is [specific product] in stock?
+   - When will [out-of-stock product] be back in stock?
+   - Do you offer pre-orders for upcoming products?
+   - Can I reserve an item for pickup in-store?
